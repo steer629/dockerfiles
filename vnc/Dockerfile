@@ -1,5 +1,5 @@
 # Start with Ubuntu base image
-FROM ubuntu:14.04
+FROM ubuntu:latest
 MAINTAINER Kai Arulkumaran <design@kaixhin.com>
 
 # Install LXDE, VNC server, XRDP and Firefox
